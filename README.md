@@ -1,4 +1,4 @@
-##Windows Form İskonto Hesaplama Uygulaması##
+## Windows Form İskonto Hesaplama Uygulaması ##
 Satış Destek Personeli olarak çalıştığımda İskonto Hesaplamalarını Hızlı bir şekilde yapabilmek için geliştirdiğim bir masaüstü mini bir Windows Form Projesi
 
 
